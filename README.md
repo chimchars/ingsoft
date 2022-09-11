@@ -7,3 +7,6 @@ Resumen de lo que se va a tratar nuestro proyecto.
 Estudiante de ingeniería en computación. 
 
 - 
+
+### Alonso Barroso Corral
+Estudiante de ingeniría en computación.
