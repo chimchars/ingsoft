@@ -1,7 +1,7 @@
 # Proyecto final de Ingeniería de Software
 Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen, agenden y ofrezcan asesorías. 
 
-##Índice
+## Índice
 - [Objetivo del proyecto](https://github.com/chimchars/ingsoft#Objetivo-del-proyecto)
 - [Integrantes del equipo](https://github.com/chimchars/ingsoft#Integrantes-del-equipo)
 
