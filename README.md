@@ -4,6 +4,9 @@ Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen,
 ## Índice
 - [Objetivo del proyecto](https://github.com/chimchars/ingsoft#Objetivo-del-proyecto)
 - [Integrantes del equipo](https://github.com/chimchars/ingsoft#Integrantes-del-equipo)
+- [Plan de calidad de software](https://github.com/chimchars/ingsoft#Plan-de-calidad-de-software)
+- [Roadmap](https://github.com/chimchars/ingsoft#Roadmap)
+- [Requerimientos](https://github.com/chimchars/ingsoft#Requerimientos)
 
 ## Objetivo del proyecto 
 Crear una aplicación web funcional que permita que alumnxs itamitas ingresen con sus clave única para buscar, agendar y ofrecer asesorías.  La aplicación también permitirá que administración del ITAM entre a la página para registrar las instalaciones institucionales en donde se podrán llevar a cabo dichas asesorías, y que lxs alumnxs puedan calificar las asesorías después de tomarlas.
@@ -28,3 +31,10 @@ Estudiante de ing. en computación e ing. en negocios. Fuerte interés en tecnol
 
 ### Dante Antonio Figueroa Blancas 
 Estudiante de ingeniería en computación 
+
+## Plan de calidad de software
+
+## Roadmap
+
+## Requerimientos
+
