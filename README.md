@@ -4,7 +4,7 @@ Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen,
 ## Índice
 - [Objetivo del proyecto](https://github.com/chimchars/ingsoft#Objetivo-del-proyecto)
 - [Integrantes del equipo](https://github.com/chimchars/ingsoft#Integrantes-del-equipo)
-- [Plan de calidad de software](https://github.com/chimchars/ingsoft#Plan-de-calidad-de-software)
+- [Plan de calidad de software](https://github.com/chimchars/ingsoft#Plan-de-calidad-de-software-(SQA))
 - [Roadmap](https://github.com/chimchars/ingsoft#Roadmap)
 - [Requerimientos](https://github.com/chimchars/ingsoft#Requerimientos)
 
@@ -25,7 +25,17 @@ Estudiante de ingeniería en computación.
 ### Sebastián Luis González Hacker
 Estudiante de ing. en computación e ing. en negocios. Fuerte interés en tecnología financiera.
 
-## Plan de calidad de software
+## Plan de calidad de software (SQA)
+Qué, quién, cuándo, cómo, para quién + documentación.
+# Funcionalidad
+Refinamiento de casos de uso para prevenir la ocurrencia de casos imprevistos. Más detalles al roadmap.
+# Confiabilidad
+# Usabilidad
+# Eficiencia
+# Mantenibilidad
+Revisión de código por pares. Debe existir una cantidad de comentarios que evidencie lo que hace el programa para alguien que no lo escribió.
+# Portabilidad 
+Front: ReactJS y Tailwind; back: Express; base de datos: MySQL; auth: JWT; orm: Prisma.
 
 ## Roadmap
 
