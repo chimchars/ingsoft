@@ -15,8 +15,6 @@ Crear una aplicación web funcional que permita que alumnxs itamitas ingresen co
 - [Santiago](https://github.com/chimchars/ingsoft#Santiago-Moreno-Rojas)
 - [Alonso](https://github.com/chimchars/ingsoft#Alonso-Barroso-Corral)
 - [Sebastián](https://github.com/chimchars/ingsoft#Sebastián-Luis-González-Hacker)
-- [César](https://github.com/chimchars/ingsoft#César-Andrés-Barrera-García)
-- [Dante](https://github.com/chimchars/ingsoft#Dante-Antonio-Figueroa-Blancas)
 
 ### Santiago Moreno Rojas 
 Estudiante de ingeniería en computación. Le gusta leer y estar con sus amigxs.
@@ -26,11 +24,6 @@ Estudiante de ingeniería en computación.
 
 ### Sebastián Luis González Hacker
 Estudiante de ing. en computación e ing. en negocios. Fuerte interés en tecnología financiera.
-
-### César Andrés Barrera García
-
-### Dante Antonio Figueroa Blancas 
-Estudiante de ingeniería en computación 
 
 ## Plan de calidad de software
 
