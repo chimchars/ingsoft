@@ -4,7 +4,7 @@ Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen,
 ## Índice
 - [Objetivo del proyecto](https://github.com/chimchars/ingsoft#Objetivo-del-proyecto)
 - [Integrantes del equipo](https://github.com/chimchars/ingsoft#Integrantes-del-equipo)
-- [Plan de calidad de software](https://github.com/chimchars/ingsoft#Plan-de-calidad-de-software-(SQA))
+- [Plan de calidad de software (SQA)](https://github.com/chimchars/ingsoft#Plan-de-calidad-de-software-sqa)
 - [Roadmap](https://github.com/chimchars/ingsoft#Roadmap)
 - [Requerimientos](https://github.com/chimchars/ingsoft#Requerimientos)
 
