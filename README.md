@@ -27,14 +27,14 @@ Estudiante de ing. en computación e ing. en negocios. Fuerte interés en tecnol
 
 ## Plan de calidad de software (SQA)
 Qué, quién, cuándo, cómo, para quién + documentación.
-# Funcionalidad
+### Funcionalidad
 Refinamiento de casos de uso para prevenir la ocurrencia de casos imprevistos. Más detalles al roadmap.
-# Confiabilidad
-# Usabilidad
-# Eficiencia
-# Mantenibilidad
+### Confiabilidad
+### Usabilidad
+### Eficiencia
+### Mantenibilidad
 Revisión de código por pares. Debe existir una cantidad de comentarios que evidencie lo que hace el programa para alguien que no lo escribió.
-# Portabilidad 
+### Portabilidad 
 Front: ReactJS y Tailwind; back: Express; base de datos: MySQL; auth: JWT; orm: Prisma.
 
 ## Roadmap
