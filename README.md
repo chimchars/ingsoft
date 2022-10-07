@@ -42,6 +42,6 @@ Front: ReactJS y Tailwind; back: Express; base de datos: MySQL; auth: JWT; orm: 
 Además de la documentación constante del código, habrá documentación en GitHub detallando la organización y construcción del proyecto.
 
 ## Roadmap
-
+![alt text](https://github.com/chimchars/ingsoft/blob/main/readmeImgs/roadmap.png)
 ## Requerimientos
 
