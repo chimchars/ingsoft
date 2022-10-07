@@ -30,9 +30,9 @@ Qué, quién, cuándo, cómo, para quién + documentación.
 ### Funcionalidad
 Refinamiento de casos de uso para prevenir la ocurrencia de casos imprevistos. Más detalles al roadmap.
 ### Confiabilidad
-Uso de prototipos de baja y alta fidelidad para hacer testings moderados de usuario. 
+Pruebas de estresamiento del sistema. 
 ### Usabilidad
-Uso de prototipos de alta fidelidad para probar qué tan bien puede un usuario entender y adaptarse al sistema
+Uso de prototipos de baja y alta fidelidad para probar la usabilidad del sistema. 
 ### Eficiencia
 Tests automatizados e implementar controles de calidad desde un principio.
 ### Mantenibilidad
