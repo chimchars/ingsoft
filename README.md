@@ -45,3 +45,15 @@ Además de la documentación constante del código, habrá documentación en Git
 ![alt text](https://github.com/chimchars/ingsoft/blob/main/readmeImgs/roadmap.png)
 ## Requerimientos
 
+## Otros Repositorios necesitados
+- Los separamos para facilitar el CI/CD que se va a implementar
+
+#### [Frontend](https://github.com/alonsobarrosoc/IngSoftFront)
+
+#### [Backend](https://github.com/alonsobarrosoc/IngSoftBack)
+
+
+
+
+
+
