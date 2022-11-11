@@ -59,7 +59,7 @@ https://asesorias-itam.netlify.app/
 ### Backend (main branch)
 https://ingsoft-asesorias.herokuapp.com/
 ### Postman collection and enviroment
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/47ffb54a75d34be27911?action=collection%2Fimport)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/47ffb54a75d34be27911?action=collection%2Fimport#?env%5BIngSoftv1%5D=W3sia2V5IjoiYmFzZVVybCIsInZhbHVlIjoiaHR0cHM6Ly9pbmdzb2Z0LWFzZXNvcmlhcy5oZXJva3VhcHAuY29tL2FwaSIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0Iiwic2Vzc2lvblZhbHVlIjoiaHR0cHM6Ly9pbmdzb2Z0LWFzZXNvcmlhcy5oZXJva3VhcHAuY29tL2FwaSIsInNlc3Npb25JbmRleCI6MH1d)
 
 
 
