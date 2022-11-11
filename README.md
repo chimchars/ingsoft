@@ -54,8 +54,12 @@ Además de la documentación constante del código, habrá documentación en Git
 #### [Backend](https://github.com/alonsobarrosoc/IngSoftBack)
 
 ## Avances
+### Frontend (main branch)
 https://asesorias-itam.netlify.app/
-
+### Backend (main branch)
+https://ingsoft-asesorias.herokuapp.com/
+### Postman collection and enviroment
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/47ffb54a75d34be27911?action=collection%2Fimport)
 
 
 
