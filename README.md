@@ -52,6 +52,9 @@ Además de la documentación constante del código, habrá documentación en Git
 
 #### [Backend](https://github.com/alonsobarrosoc/IngSoftBack)
 
+## Avances
+https://asesorias-itam.netlify.app/
+
 
 
 
