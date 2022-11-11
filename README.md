@@ -7,6 +7,7 @@ Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen,
 - [Plan de calidad de software (SQA)](https://github.com/chimchars/ingsoft#Plan-de-calidad-de-software-sqa)
 - [Roadmap](https://github.com/chimchars/ingsoft#Roadmap)
 - [Requerimientos](https://github.com/chimchars/ingsoft#Requerimientos)
+- [Avances](https://github.com/chimchars/ingsoft#Avances)
 
 ## Objetivo del proyecto 
 Crear una aplicación web funcional que permita que alumnxs itamitas ingresen con sus clave única para buscar, agendar y ofrecer asesorías.  La aplicación también permitirá que administración del ITAM entre a la página para registrar las instalaciones institucionales en donde se podrán llevar a cabo dichas asesorías, y que lxs alumnxs puedan calificar las asesorías después de tomarlas.
