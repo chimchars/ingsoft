@@ -47,10 +47,10 @@ Además de la documentación constante del código, habrá documentación en Git
 ![alt text](https://github.com/chimchars/ingsoft/blob/main/readmeImgs/roadmap.png)
 
 ## Requerimientos
-### De Negocio (sponsor pov, scope, business objectives)
+### De Negocio 
 Lograr una aplicación que permita que alumnxs del ITAM ofrezcan, anuncien, agenden y califiquen asesorías en el ITAM. 
-### Técnicos (user pov, user goals, user inputs n outputs)
-### Funcionales (what de system does and how well it does it) 
+### Técnicos
+### Funcionales
 Aplicación web, accesible dentro de cualquier browser, que contenga:
 - Página principal
 - Interfaz de inicio de sesión
