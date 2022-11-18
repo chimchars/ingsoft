@@ -47,15 +47,15 @@ Además de la documentación constante del código, habrá documentación en Git
 ![alt text](https://github.com/chimchars/ingsoft/blob/main/readmeImgs/roadmap.png)
 
 ## Requerimientos
-# De Negocio
+### De Negocio
 Lograr una aplicación que permita que alumnxs del ITAM ofrezcan, anuncien, agenden y califiquen asesorías en el ITAM. 
-# Técnicos
-# Funcionales
+### Técnicos
+### Funcionales
 
 ## Casos de uso
 ![Captura de Pantalla 2022-11-18 a la(s) 7 20 08 a m](https://user-images.githubusercontent.com/47926338/202714492-991d4b3b-e445-4e6a-8d7f-0155f905930d.png)
 
-## Otros Repositorios necesitados
+## Otros repositorios necesitados
 - Los separamos para facilitar el CI/CD que se va a implementar
 
 #### [Frontend](https://github.com/alonsobarrosoc/IngSoftFront)
