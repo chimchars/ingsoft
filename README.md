@@ -7,6 +7,7 @@ Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen,
 - [Plan de calidad de software (SQA)](https://github.com/chimchars/ingsoft#Plan-de-calidad-de-software-sqa)
 - [Roadmap](https://github.com/chimchars/ingsoft#Roadmap)
 - [Requerimientos](https://github.com/chimchars/ingsoft#Requerimientos)
+- [Casos de uso](https://github.com/chimchars/ingsoft#Casos-de-uso)
 - [Avances](https://github.com/chimchars/ingsoft#Avances)
 
 ## Objetivo del proyecto 
@@ -50,10 +51,9 @@ Además de la documentación constante del código, habrá documentación en Git
 Lograr una aplicación que permita que alumnxs del ITAM ofrezcan, anuncien, agenden y califiquen asesorías en el ITAM. 
 # Técnicos
 # Funcionales
-![Captura de Pantalla 2022-11-18 a la(s) 7 20 08 a m](https://user-images.githubusercontent.com/47926338/202714492-991d4b3b-e445-4e6a-8d7f-0155f905930d.png)
 
 ## Casos de uso
-
+![Captura de Pantalla 2022-11-18 a la(s) 7 20 08 a m](https://user-images.githubusercontent.com/47926338/202714492-991d4b3b-e445-4e6a-8d7f-0155f905930d.png)
 
 ## Otros Repositorios necesitados
 - Los separamos para facilitar el CI/CD que se va a implementar
