@@ -51,6 +51,12 @@ Además de la documentación constante del código, habrá documentación en Git
 ### De Negocio 
 Lograr una aplicación que permita que alumnxs del ITAM ofrezcan, anuncien, agenden y califiquen asesorías en el ITAM. 
 ### Técnicos
+- Servidor para el "hosting" de la página web y las bases de datos
+- Registro del dominio
+- Estaciones de trabajo para el desarrollo y testeo de la página web}
+- Programa de respaldo 
+- Lugar físico adecuado (aire acondicionado, respaldo de energía eléctrica, sistema contra
+incendio, etc.)
 ### Funcionales
 Aplicación web, accesible dentro de cualquier browser, que contenga:
 - Página principal
