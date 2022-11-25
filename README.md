@@ -1,5 +1,5 @@
 # Proyecto final de Ingeniería de Software
-Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen, agenden y ofrezcan asesorías. 
+Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen, agenden y ofrezcan asesorías. El proyecto se llevó a cabo en cinco semanas por un equipo de tres personas.
 
 ## Índice
 - [Objetivo del proyecto](https://github.com/chimchars/ingsoft#Objetivo-del-proyecto)
