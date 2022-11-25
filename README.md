@@ -8,6 +8,7 @@ Nuestro proyecto trata de una aplicación web para que alumnxs del ITAM busquen,
 - [Roadmap](https://github.com/chimchars/ingsoft#Roadmap)
 - [Requerimientos](https://github.com/chimchars/ingsoft#Requerimientos)
 - [Casos de uso](https://github.com/chimchars/ingsoft#Casos-de-uso)
+- [Costos](https://github.com/chimchars/ingsoft#Costos)
 - [Avances](https://github.com/chimchars/ingsoft#Avances)
 
 ## Objetivo del proyecto 
@@ -69,6 +70,9 @@ La aplicación debe cumplir los estándares estipulados en el SQA previamente.
 
 ## Casos de uso
 ![Captura de Pantalla 2022-11-18 a la(s) 7 20 08 a m](https://user-images.githubusercontent.com/47926338/202714492-991d4b3b-e445-4e6a-8d7f-0155f905930d.png)
+
+## Costos
+Calculamos los costos del proyecto en [este documento.](https://docs.google.com/spreadsheets/d/1VyvFcyO7h51ESQJbOq1LToGsr4ErrPnfKpyfbs28pO0/edit?usp=sharing)
 
 ## Otros repositorios necesitados
 - Los separamos para facilitar el CI/CD que se va a implementar
