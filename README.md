@@ -30,9 +30,9 @@ Estudiante de ing. en computación e ing. en negocios. Fuerte interés en tecnol
 
 ## Plan de calidad de software (SQA)
 ### Funcionalidad
-Refinamiento de casos de uso para prevenir la ocurrencia de casos imprevistos. Más detalles al roadmap.
+Refinamiento de casos de uso para prevenir la ocurrencia de casos imprevistos. Roadmap y backlog. 
 ### Confiabilidad
-Pruebas de estresamiento del sistema. 
+Pruebas de estresamiento del sistema y automatización en GitHub para prevenir fallas.
 ### Usabilidad
 Uso de prototipos de baja y alta fidelidad para probar la usabilidad del sistema. 
 ### Eficiencia
@@ -42,7 +42,7 @@ Revisión de código por pares. Debe existir una cantidad de comentarios que evi
 ### Portabilidad 
 Front: ReactJS y Tailwind; back: Express; base de datos: MySQL; auth: JWT; orm: Prisma.
 ### Documentación 
-Además de la documentación constante del código, habrá documentación en GitHub detallando la organización y construcción del proyecto.
+Además de la documentación constante del código, habrá documentación en GitHub (i.e. este README) detallando la organización y construcción del proyecto.
 
 ## Roadmap
 ![alt text](https://github.com/chimchars/ingsoft/blob/main/readmeImgs/roadmap.png)
@@ -53,7 +53,7 @@ Lograr una aplicación que permita que alumnxs del ITAM ofrezcan, anuncien, agen
 ### Técnicos
 - Servidor para el "hosting" de la página web y las bases de datos
 - Registro del dominio
-- Estaciones de trabajo para el desarrollo y testeo de la página web}
+- Estaciones de trabajo para el desarrollo y testeo de la página web
 - Programa de respaldo 
 - Lugar físico adecuado (aire acondicionado, respaldo de energía eléctrica, sistema contra
 incendio, etc.)
@@ -71,17 +71,17 @@ Aplicación web, accesible dentro de cualquier browser, que contenga:
 - Interfaz de búsqueda de asesorías con filtros (materias, horario, presencial o virtual, costo máximo)
 - Base de datos
 - Interfaz de pago
-La aplicación debe cumplir los estándares estipulados en el SQA previamente.
+La aplicación debe cumplir los estándares estipulados previamente en el [SQA](https://github.com/chimchars/ingsoft#Plan-de-calidad-de-software-sqa).
 
 
 ## Casos de uso
 ![Captura de Pantalla 2022-11-18 a la(s) 7 20 08 a m](https://user-images.githubusercontent.com/47926338/202714492-991d4b3b-e445-4e6a-8d7f-0155f905930d.png)
 
 ## Costos
-Calculamos los costos del proyecto en [este documento.](https://docs.google.com/spreadsheets/d/1VyvFcyO7h51ESQJbOq1LToGsr4ErrPnfKpyfbs28pO0/edit?usp=sharing)
+Calculamos los costos del proyecto en [este documento.](https://docs.google.com/spreadsheets/d/1VyvFcyO7h51ESQJbOq1LToGsr4ErrPnfKpyfbs28pO0/edit?usp=sharing) Utilizamos una tasa de 250MXN por hora y de 3 horas por punto de esfuerzo.
 
 ## Otros repositorios necesitados
-- Los separamos para facilitar el CI/CD que se va a implementar
+- Separamos los repositorios de Front y Back para facilitar el CI/CD que implementamos.
 
 #### [Frontend](https://github.com/alonsobarrosoc/IngSoftFront)
 
