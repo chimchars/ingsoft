@@ -36,7 +36,14 @@ Tests automatizados e implementar controles de calidad desde un principio.
 ### Mantenibilidad
 Revisión de código por pares. Debe existir una cantidad de comentarios que evidencie lo que hace el programa para alguien que no lo escribió.
 ### Portabilidad 
-Front: ReactJS y Tailwind; back: Express; base de datos: MySQL; auth: JWT; orm: Prisma.
+- Front: ReactJS y Tailwind
+- Back: Express
+- BD: MySQL
+- Auth: JWT
+- ORM: Prisma
+- Servidor: Heroku
+
+
 ### Documentación 
 Además de la documentación constante del código, habrá documentación en GitHub (i.e. este README) detallando la organización y construcción del proyecto.
 
